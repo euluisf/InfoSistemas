@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/23 17:50:59.000.794,=C:\Users\eului\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/23 17:51:41.000.920,C:\Users\eului\Desktop\InfoSistemas\Cadastro.dfm=C:\Users\eului\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/12/23 17:51:41.000.920,C:\Users\eului\Desktop\InfoSistemas\Cadastro.pas=C:\Users\eului\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/23 17:51:52.000.714,C:\Users\eului\Desktop\InfoSistemas\InfoSistemas.dproj=C:\Users\eului\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/12/23 19:22:11.000.817,=C:\Users\eului\Desktop\InfoSistemas\nUtilHTTP.pas</Transaction>
+    <Transaction>2020/12/23 19:32:13.000.950,=C:\Users\eului\Desktop\InfoSistemas\nTipos.pas</Transaction>
+    <Transaction>2020/12/23 19:41:48.000.347,C:\Users\eului\Desktop\InfoSistemas\nTipos.pas=</Transaction>
+    <Transaction>2020/12/23 19:41:52.000.182,C:\Users\eului\Desktop\InfoSistemas\nUtilHTTP.pas=</Transaction>
+    <Transaction>2020/12/23 19:52:03.000.168,=C:\Users\eului\Desktop\InfoSistemas\API_CEP\ViaCEP.Model.pas</Transaction>
+    <Transaction>2020/12/23 19:52:03.000.137,=C:\Users\eului\Desktop\InfoSistemas\API_CEP\ViaCEP.Core.pas</Transaction>
+    <Transaction>2020/12/23 19:52:03.000.153,=C:\Users\eului\Desktop\InfoSistemas\API_CEP\ViaCEP.Intf.pas</Transaction>
+    <Transaction>2020/12/23 20:27:07.000.699,=C:\Users\eului\Desktop\InfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2020/12/23 20:27:17.000.332,C:\Users\eului\Desktop\InfoSistemas\Unit1.pas=C:\Users\eului\Desktop\InfoSistemas\BuscaCEP.pas</Transaction>
+    <Transaction>2020/12/23 20:40:54.000.519,C:\Users\eului\Desktop\InfoSistemas\API_CEP\ViaCEP.Model.pas=</Transaction>
+    <Transaction>2020/12/23 20:40:57.000.668,C:\Users\eului\Desktop\InfoSistemas\API_CEP\ViaCEP.Intf.pas=</Transaction>
+    <Transaction>2020/12/23 20:41:00.000.385,C:\Users\eului\Desktop\InfoSistemas\API_CEP\ViaCEP.Core.pas=</Transaction>
+    <Transaction>2020/12/24 13:02:30.562,C:\Users\eului\Desktop\InfoSistemas\Rotinas.pas=C:\Users\eului\Desktop\InfoSistemas\BuscaCEP.pas</Transaction>
+  </Transactions>
+</BorlandProject>
